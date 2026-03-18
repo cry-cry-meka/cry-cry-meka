@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**cry-cry-meka/cry-cry-meka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### whoami
+Hi, I'm meka
+A self-taught 18 year old Pentester
+---
+### What I Know 
+- Network Penetration testing
+- Linux/Windows
+---
+### Currently Learning
+- CPTS Cert
+- Malware Analysis/Reverse Engineering
+---
+### About Me 
+- I like to know how everything works
+- I don't like cats or dogs 
