@@ -19,4 +19,3 @@ A self-taught 18 year old Pentester
 ### About Me 
 
 - I like to know how everything works
-- I don't like cats or dogs 
